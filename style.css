@@ -16,6 +16,7 @@ item {
 
 .profile-card {
   width: 90%;
+  max-width: 1000px
   margin: 0 auto;
   background-color: #333;
   padding: 32px;
