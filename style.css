@@ -15,10 +15,10 @@ item {
 }
 
 .profile-card {
-  max-width: 32px
+  max-width: 600px
   margin: 0 auto;
   background-color: #333;
-  padding: 40px;
+  padding: 32px;
   border-radius: 16px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
